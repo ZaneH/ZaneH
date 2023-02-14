@@ -40,15 +40,6 @@
         <a href="https://github.com/ZaneH/flutter-petstore-mockup">ZaneH/flutter-petstore-mockup</a>
       </li>
     </ul>
-    <li>Web Apps</li>
-    <ul>
-      <li>
-        <a href="https://github.com/zaneh/firetv-remote">ZaneH/firetv-remote</a>
-      </li>
-      <li>
-        <a href="https://github.com/ZaneH/synctube">ZaneH/synctube</a>
-      </li>
-    </ul>
     <li>iOS Tweaks</li>
     <ul>
       <li>
@@ -68,6 +59,15 @@
       </li>
       <li>
         <a href="https://github.com/ZaneH/file-name-template">ZaneH/file-name-template</a>
+      </li>
+    </ul>
+    <li>(Old) Web Apps</li>
+    <ul>
+      <li>
+        <a href="https://github.com/zaneh/firetv-remote">ZaneH/firetv-remote</a>
+      </li>
+      <li>
+        <a href="https://github.com/ZaneH/synctube">ZaneH/synctube</a>
       </li>
     </ul>
     <li>Miscellaneous</li>
