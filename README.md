@@ -2,7 +2,6 @@
 
 ### 📍 I’m currently working on
 
-- A GPT chatbot
 - A web app for live-streamers
 
 ### 📚 I’m learning
