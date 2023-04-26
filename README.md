@@ -1,8 +1,10 @@
 ## Howdy 🌊
 
-### 📍 I’m currently working on
+### 📍 I’m currently building...
 
 - A web app for live-streamers
+- An SMS service
+- A Roblox game
 
 ### 📚 I’m learning
 
