@@ -1,10 +1,11 @@
 ## Howdy 🌊
 
-### 📍 I’m currently building...
+### 📍 I’m currently...
 
-- A web app for live-streamers
-- An SMS service
-- A Roblox game
+- Building a web app for live-streamers
+- Building an SMS service
+- Building a Roblox game
+- Preparing for Vision Pro
 
 ### 📚 I’m learning
 
