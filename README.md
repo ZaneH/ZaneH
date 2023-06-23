@@ -4,7 +4,6 @@
 
 - Building a web app for live-streamers
 - Building an SMS service
-- Building a Roblox game
 - Preparing for Vision Pro
 
 ### 📚 I’m learning
