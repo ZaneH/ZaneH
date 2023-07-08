@@ -13,6 +13,7 @@
 
 ### 😊 Past works
 
+- Learn Elixir Quickly - [Playlist](https://www.youtube.com/watch?v=Vz7qH_dJQC0&list=PLFWEDfSyl7h88ZgEIkLdf8xI6XBBhNBkc) | [Repo](https://github.com/zaneh-yt)
 - Exchange Rate API - [ZaneH/exchange-rate-api](https://github.com/zaneh/exchange-rate-api)
 - Piano Trainer - [ZaneH/piano-trainer](https://github.com/zaneh/piano-trainer)
 - Metronome - [ZaneH/metronome](https://github.com/zaneh/metronome)
