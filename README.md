@@ -9,7 +9,7 @@
 ### 📚 I’m learning
 
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 ### 😊 Past works
 
@@ -83,6 +83,7 @@
 
 ### 🥇 Favorite technologies
 
+![Elixir](https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
