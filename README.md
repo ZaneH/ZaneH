@@ -14,7 +14,7 @@
 
 ### 🖼 Previous work
 
-Check out my [portfolio!](https://portfolio.zaaane.com/)
+Check out my <a href="https://portfolio.zaaane.com/" target="_blank">portfolio</a>!
 
 <details>
 <summary>or use this dropdown</summary>
