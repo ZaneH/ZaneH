@@ -3,7 +3,6 @@
 ### 📍 I’m currently...
 
 - Building a web app for live-streamers
-- Building an SMS service
 - Preparing for Vision Pro
 
 ### 📚 I’m learning
