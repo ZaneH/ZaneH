@@ -12,20 +12,40 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
-### 😊 Past works
+### 🖼 Previous work
 
-- Streamaze - [Website](https://streamaze.live/landing) | [Docs](https://docs.streamaze.live)
-- Learn Elixir Quickly - [Playlist](https://www.youtube.com/watch?v=Vz7qH_dJQC0&list=PLFWEDfSyl7h88ZgEIkLdf8xI6XBBhNBkc) | [Repo](https://github.com/zaneh-yt)
-- Exchange Rate API - [ZaneH/exchange-rate-api](https://github.com/zaneh/exchange-rate-api)
-- Piano Trainer - [ZaneH/piano-trainer](https://github.com/zaneh/piano-trainer)
-- Metronome - [ZaneH/metronome](https://github.com/zaneh/metronome)
-- Exitally - [exitally.com](https://exitally.com)
-- Zabo Demo - [ZaneH/zabo-demo](https://github.com/ZaneH/zabo-demo)
-- Wavr - [ZaneH/wavr](https://github.com/ZaneH/wavr)
+Check out my [portfolio!](https://portfolio.zaaane.com/)
 
 <details>
-<summary>Click to view all</summary>
+<summary>or use this dropdown</summary>
   <ul>
+    <li>Recent work</li>
+    <ul>
+      <li>
+        <a href="https://streamaze.live/landing">Streamaze - Website</a> | <a href="https://docs.streamaze.live">Docs</a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/watch?v=Vz7qH_dJQC0&list=PLFWEDfSyl7h88ZgEIkLdf8xI6XBBhNBkc">Learn Elixir Quickly - Playlist</a> | <a href="https://github.com/zaneh-yt">Repo</a>
+      </li>
+      <li>
+        <a href="https://github.com/zaneh/exchange-rate-api">Exchange Rate API - ZaneH/exchange-rate-api</a>
+      </li>
+      <li>
+        <a href="https://github.com/zaneh/piano-trainer">Piano Trainer - ZaneH/piano-trainer</a>
+      </li>
+      <li>
+        <a href="https://github.com/zaneh/metronome">Metronome - ZaneH/metronome</a>
+      </li>
+      <li>
+        <a href="https://exitally.com">Exitally - exitally.com</a>
+      </li>
+      <li>
+        <a href="https://github.com/ZaneH/zabo-demo">Zabo Demo - ZaneH/zabo-demo</a>
+      </li>
+      <li>
+        <a href="https://github.com/ZaneH/wavr">Wavr - ZaneH/wavr</a>
+      </li>
+    </ul>
     <li>Flutter Demos</li>
     <ul>
       <li>
@@ -95,7 +115,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
 
 <details>
-<summary>Click to view all</summary>
+<summary>all favorites</summary>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
