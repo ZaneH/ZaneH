@@ -21,28 +21,31 @@ Check out my <a href="https://portfolio.zaaane.com/" target="_blank">portfolio</
     <li>Recent work</li>
     <ul>
       <li>
+        <a href="https://github.com/zaneh/color-chai">Color Chai</a>
+      </li>
+      <li>
         <a href="https://streamaze.live/landing">Streamaze - Website</a> | <a href="https://docs.streamaze.live">Docs</a>
       </li>
       <li>
         <a href="https://www.youtube.com/watch?v=Vz7qH_dJQC0&list=PLFWEDfSyl7h88ZgEIkLdf8xI6XBBhNBkc">Learn Elixir Quickly - Playlist</a> | <a href="https://github.com/zaneh-yt">Repo</a>
       </li>
       <li>
-        <a href="https://github.com/zaneh/exchange-rate-api">Exchange Rate API - ZaneH/exchange-rate-api</a>
+        <a href="https://github.com/zaneh/exchange-rate-api">Exchange Rate API</a>
       </li>
       <li>
-        <a href="https://github.com/zaneh/piano-trainer">Piano Trainer - ZaneH/piano-trainer</a>
+        <a href="https://github.com/zaneh/piano-trainer">Piano Trainer</a>
       </li>
       <li>
-        <a href="https://github.com/zaneh/metronome">Metronome - ZaneH/metronome</a>
+        <a href="https://github.com/zaneh/metronome">Metronome</a>
       </li>
       <li>
         <a href="https://exitally.com">Exitally - exitally.com</a>
       </li>
       <li>
-        <a href="https://github.com/ZaneH/zabo-demo">Zabo Demo - ZaneH/zabo-demo</a>
+        <a href="https://github.com/ZaneH/zabo-demo">Zabo Demo</a>
       </li>
       <li>
-        <a href="https://github.com/ZaneH/wavr">Wavr - ZaneH/wavr</a>
+        <a href="https://github.com/ZaneH/wavr">Wavr</a>
       </li>
     </ul>
     <li>Flutter Demos</li>
