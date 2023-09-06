@@ -3,7 +3,6 @@
 ### 📍 I’m currently...
 
 - Building a web app for live-streamers
-- Preparing for Vision Pro
 - Delving into EVM security research
 
 ### 📚 I’m learning
