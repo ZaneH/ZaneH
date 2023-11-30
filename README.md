@@ -20,7 +20,7 @@ Check out my <a href="https://portfolio.zaaane.com/" target="_blank">portfolio</
         <a href="https://github.com/zaneh/color-chai">Color Chai</a>
       </li>
       <li>
-        <a href="https://streamaze.live/landing">Streamaze - Website</a> | <a href="https://docs.streamaze.live">Docs</a>
+        <a href="https://streamaze.xyz/landing">Streamaze - Website</a> | <a href="https://guide.streamaze.xyz">Docs</a> | <a href="https://github.com/Streamaze">Repo</a>
       </li>
       <li>
         <a href="https://www.youtube.com/watch?v=Vz7qH_dJQC0&list=PLFWEDfSyl7h88ZgEIkLdf8xI6XBBhNBkc">Learn Elixir Quickly - Playlist</a> | <a href="https://github.com/zaneh-yt">Repo</a>
