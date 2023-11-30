@@ -2,7 +2,7 @@
 
 ### 📍 I’m currently...
 
-- Building a web app for live-streamers
+- Learning over the holidays
 
 ### 🖼 Previous work
 
