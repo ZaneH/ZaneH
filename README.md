@@ -16,6 +16,9 @@ Check out my <a href="https://portfolio.zaaane.com/" target="_blank">portfolio</
     <li>Recent work</li>
     <ul>
       <li>
+        <a href="https://github.com/zaneh/gpt-fine-tune-gui">GPT Fine-Tune GUI</a>
+      </li>
+      <li>
         <a href="https://dafarmz.zaaane.com/">DaFarmz - Website</a> | <a href="https://github.com/ZaneH/dafarmz-bot">Repo</a>
       </li>
       <li>
