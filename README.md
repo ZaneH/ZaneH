@@ -2,9 +2,8 @@
 
 ### 📍 I’m currently...
 
-- Learning over the holidays
-- Building a trading bot
-- Building a tool for developers
+- Applying for work
+- Building for fun
 
 ### 🖼 Previous work
 
