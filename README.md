@@ -2,8 +2,7 @@
 
 ### 📍 I’m currently...
 
-- Applying for work
-- Building for fun
+- Making for fun
 
 ### 🖼 Previous work
 
