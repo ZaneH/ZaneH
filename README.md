@@ -2,7 +2,7 @@
 
 ### 📍 I’m currently...
 
-- Making for fun
+- Making a trading bot
 
 ### 🖼 Previous work
 
