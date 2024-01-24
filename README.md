@@ -3,6 +3,7 @@
 ### 📍 I’m currently...
 
 - Making a trading bot
+- Working with AI
 
 ### 🖼 Previous work
 
