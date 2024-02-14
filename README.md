@@ -7,7 +7,7 @@
 
 ### 🖼 Previous work
 
-Check out my <a href="https://portfolio.zaaane.com/" target="_blank">portfolio</a>!
+Check out my <a href="https://zaaane.com/projects" target="_blank">past projects</a>!
 
 <details>
 <summary>or use this dropdown</summary>
