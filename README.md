@@ -4,6 +4,7 @@
 
 - Making a trading bot
 - Working with AI
+- Remaking a game
 
 ### 🖼 Previous work
 
