@@ -7,7 +7,6 @@ Check out my <a href="https://zaaane.com/projects" target="_blank">past projects
 ### Preferred Tech
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=for-the-badge&logo=Arch-Linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143.svg?style=for-the-badge&logo=Neovim&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
@@ -20,6 +19,7 @@ Check out my <a href="https://zaaane.com/projects" target="_blank">past projects
 <summary>experienced with</summary>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
@@ -46,8 +46,6 @@ Check out my <a href="https://zaaane.com/projects" target="_blank">past projects
   <img src="https://img.shields.io/badge/Elixir-4B275F.svg?style=for-the-badge&logo=Elixir&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-9945FF.svg?style=for-the-badge&logo=Solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Timescale-FDB515.svg?style=for-the-badge&logo=Timescale&logoColor=black" />
   <img src="https://img.shields.io/badge/NATS.io-27AAE1.svg?style=for-the-badge&logo=natsdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Phoenix%20Framework-FD4F00.svg?style=for-the-badge&logo=Phoenix-Framework&logoColor=white" />
