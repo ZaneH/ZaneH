@@ -1,3 +1,5 @@
-### Previous work
+![Zane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaneh&hide=contribs&theme=onedark)
 
-Check out my <a href="https://zaaane.com/projects" target="_blank">past projects</a>!
+### Previous works
+
+Check out my <a href="https://zaaane.com/projects" target="_blank">projects here</a>
