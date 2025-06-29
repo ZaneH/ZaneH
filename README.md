@@ -1,4 +1,4 @@
-![Zane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaneh&hide=contribs&theme=onedark)
+![Zane's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaneh&hide=contribs&theme=onedark&id=125)
 
 ### Previous works
 
